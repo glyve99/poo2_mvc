@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "poo2_mvc_d3e9f679"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalcMVC",
+            "request": "launch",
+            "mainClass": "CalcMVC",
+            "projectName": "poo2_mvc_d3e9f679"
+        }
+    ]
+}
